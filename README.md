@@ -1,4 +1,12 @@
-## Hi there 👋
+# Aaron J.M. Aben
+### Recent graduate of the UMD CS program, looking to expand my skills and get hired!
+ - Currently grinding LC and working on The Odin Project
+ - Primary goal is backend development but learning full stack
+## My Socials
+[![Aaron's IG](512px-Instagram_icon.png)](https://www.instagram.com/ay.ruhn/)
+
+
+## Languages and Tools
 
 <!--
 **aaron-j-aben/aaron-j-aben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
