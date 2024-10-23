@@ -3,7 +3,10 @@
  - Currently grinding LC and working on The Odin Project
  - Primary goal is backend development but learning full stack
 ## My Socials
-[![Aaron's IG](512px-Instagram_icon.png)](https://www.instagram.com/ay.ruhn/)
+<a href="https://www.instagram.com/ay.ruhn/" rel="nofollow">
+    <img src="https://github.com/user-attachments/assets/80ffe066-d348-4aed-a277-cf2c8e1dbedd" width="100" height="100" />
+</a>
+
 
 
 ## Languages and Tools
