@@ -6,6 +6,9 @@
 <a href="https://www.instagram.com/ay.ruhn/" rel="nofollow">
     <img src="https://github.com/user-attachments/assets/80ffe066-d348-4aed-a277-cf2c8e1dbedd" width="100" height="100" />
 </a>
+<a href="https://www.linkedin.com/in/aaronjaben/" rel="nofollow">
+
+</a>
 
 
 
