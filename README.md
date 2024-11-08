@@ -4,10 +4,10 @@
  - Primary goal is to become a backend developer but I am learning full stack!
 ## My Socials
 <a href="https://www.instagram.com/ay.ruhn/" rel="nofollow">
-    <img src="https://github.com/user-attachments/assets/80ffe066-d348-4aed-a277-cf2c8e1dbedd" width="100" height="100" />
+    <img src="https://github.com/user-attachments/assets/80ffe066-d348-4aed-a277-cf2c8e1dbedd" width="75" height="75" />
 </a>
 <a href="https://www.linkedin.com/in/aaronjaben/" rel="nofollow">
-    <img src="https://github.com/user-attachments/assets/fd3bf24b-3923-4d58-a255-0e0ed5edd408" width="100" height="100" />
+    <img src="https://github.com/user-attachments/assets/fd3bf24b-3923-4d58-a255-0e0ed5edd408" width="75" height="75" />
 </a>
 
 
