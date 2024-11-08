@@ -13,10 +13,11 @@
 
 
 ## Languages and Tools
- - Python
+ - Python (Pandas, Numpy)
  - Java
  - C
  - MATlab
+ - JavaScript (Node.js, React)
 
 <!--
 **aaron-j-aben/aaron-j-aben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
