@@ -1,13 +1,13 @@
 # Aaron J.M. Aben
 ### Recent graduate of the UMD CS program, looking to expand my skills and get hired!
- - Currently grinding LC and working on The Odin Project
- - Primary goal is backend development but learning full stack
+ - Currently grinding LC and working on The Odin Project to enhance my portfolio
+ - Primary goal is to become a backend developer but I am learning full stack!
 ## My Socials
 <a href="https://www.instagram.com/ay.ruhn/" rel="nofollow">
     <img src="https://github.com/user-attachments/assets/80ffe066-d348-4aed-a277-cf2c8e1dbedd" width="100" height="100" />
 </a>
 <a href="https://www.linkedin.com/in/aaronjaben/" rel="nofollow">
-
+    <img src="https://github.com/user-attachments/assets/fd3bf24b-3923-4d58-a255-0e0ed5edd408" width="100" height="100" />
 </a>
 
 
