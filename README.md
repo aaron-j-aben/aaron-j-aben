@@ -1,7 +1,8 @@
 # Aaron J.M. Aben
-### Recent graduate of the UMD CS program, looking to expand my skills and get hired!
+### Recent graduate of the UMD CS program and QUEST consulting program, looking to expand my skills and get hired!
  - Currently grinding LC and working on The Odin Project's Node.js path to enhance my portfolio 
  - Primary goal is to become a backend developer but I am learning full stack!
+ - My primary experience is in management consulting
 ## My Socials
 <a href="https://www.instagram.com/ay.ruhn/" rel="nofollow">
     <img src="https://github.com/user-attachments/assets/80ffe066-d348-4aed-a277-cf2c8e1dbedd" width="75" height="75" />
