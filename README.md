@@ -1,9 +1,6 @@
 # Aaron J.M. Aben
-### Recent graduate of the UMD CS program and QUEST consulting program, looking to expand my skills and get hired!
- - Grinding LC and working on The Odin Project's Node.js path to enhance my portfolio 
- - Primary goal is to become a backend developer but I am learning full stack!
- - My primary experience is in management consulting
- - Exploring opportunities in data engineering
+### DevSecOps Engineer @ Everforth ECS
+ - Primary work is present on enterprise GitHub - contact me on my socials for a better understanding of my current work.
 ## My Socials
 <a href="https://www.instagram.com/ay.ruhn/" rel="nofollow">
     <img src="https://github.com/user-attachments/assets/80ffe066-d348-4aed-a277-cf2c8e1dbedd" width="75" height="75" />
@@ -15,11 +12,11 @@
 
 
 ## Languages and Tools
- - Python (Pandas, Numpy)
- - Java
- - C
- - MATlab
- - JavaScript (Node.js, React)
+ - Python
+ - Jenkins
+ - Ansible
+ - K8s w/ Helm Charts
+ - Groovy
 
 <!--
 **aaron-j-aben/aaron-j-aben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
